@@ -56,3 +56,6 @@ android/
 ```
 界面截图：
 <img width="1088" height="2181" alt="38a1ea352d1ec51339283ee83c0c73e0" src="https://github.com/user-attachments/assets/8512be0f-6b51-4476-8627-99db5fc592ea" />
+
+
+鸣谢：Yiii丨DeepSeek V4 Flash
